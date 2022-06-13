@@ -1,5 +1,3 @@
-// Ng, Pei Aou Wilson 100332292. Instructor: Bita Shadgar
-
 #ifndef STACK_H
 #define STACK_H
 
