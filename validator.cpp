@@ -1,5 +1,3 @@
-// Ng, Pei Aou Wilson, 100332292. Instructor: Bita Shadgar
-
 #include <iostream>
 #include <vector>
 #include <fstream>
